@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Supporter</string>
+    <string name="weather_key">0edf62ab-25bb-4c90-a424-f56fbe95ba5a</string>
+    <string name="notify_location_null">최근 위치 정보가 존재하지 않습니다.</string>
+    <string name="temp_max_min">최고/최저 기온</string>
+    <string name="wind_speed_degree">풍속/풍향</string>
+    <string name="rain">강수</string>
+    <string name="loading_image">Loading Image</string>
+    <string name="loading_get_location">현재 위치를 확인하고 있습니다...</string>
+    <string name="require_gps_wifi_notice">GPS, WIFI 연결 상태를 확인해주세요.</string>
+    <string name="notice_need_time_to_gps">위치 정보를 확인 중입니다. 잠시 후 다시 시도해주세요.</string>
+</resources>
